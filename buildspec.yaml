@@ -24,4 +24,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: dist/ng-app-pipeline.zip
+  base-directory: dist/angular-aws-app
