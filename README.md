@@ -32,4 +32,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 uploaded the code to S3 with AWS_Codepipeline & Codebuild
 
 ## Release change
-Testing Buildspec.yaml
+Testing Buildspec.yaml with Basedirectory
