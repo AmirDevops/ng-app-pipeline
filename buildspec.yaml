@@ -24,4 +24,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: dist/ng-app-pipeline
+  base-directory: dist/ng-app-pipeline.zip
